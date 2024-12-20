@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TranVanTan\\DATN_TVT\\TranVanTan_DATN_2020601797-master\\TranVanTan_DATN_2020601797-master\\YoloEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD62069-FDEA-4AE1-8769-928ED21F391A}|YoloEcommerce\\YoloEcommerce.csproj|f:\\tranvantan\\datn_tvt\\tranvantan_datn_2020601797-master\\tranvantan_datn_2020601797-master\\yoloecommerce\\yoloecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD62069-FDEA-4AE1-8769-928ED21F391A}|YoloEcommerce\\YoloEcommerce.csproj|solutionrelative:yoloecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\TranVanTan\\DATN_TVT\\TranVanTan_DATN_2020601797-master\\TranVanTan_DATN_2020601797-master\\YoloEcommerce\\YoloEcommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "YoloEcommerce\\appsettings.json",
+              "ToolTip": "F:\\TranVanTan\\DATN_TVT\\TranVanTan_DATN_2020601797-master\\TranVanTan_DATN_2020601797-master\\YoloEcommerce\\YoloEcommerce\\appsettings.json",
+              "RelativeToolTip": "YoloEcommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T03:44:26.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
