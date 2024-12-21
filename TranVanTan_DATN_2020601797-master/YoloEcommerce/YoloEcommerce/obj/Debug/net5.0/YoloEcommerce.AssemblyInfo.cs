@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoloEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47eb83f39a5cf95bfd35ca106b92a88b5c1adb8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoloEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoloEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
